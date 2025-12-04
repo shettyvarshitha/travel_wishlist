@@ -1,0 +1,12 @@
+[
+    {
+        "place": "japan",
+        "notes": "dream placce",
+        "visited": false
+    },
+    {
+        "place": "us",
+        "notes": "",
+        "visited": false
+    }
+]
